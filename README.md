@@ -12,13 +12,12 @@ Recommended Structure and Order
 
 💼 Workforce Analytics Using Power BI
 
-2.Project Description / Purpose:
+2. Project Description / Purpose:
 
 Developed an interactive Power BI dashboard to analyze HR data, focusing on employee attrition, department performance, demographics, and satisfaction metrics to support data-driven HR decisions.
+Purpose: To visualize HR data and uncover insights that help improve employee retention, performance, and workforce planning
 
- Purpose: To visualize HR data and uncover insights that help improve employee retention, performance, and workforce planning
-
- 3. Tech Stack:
+3. Tech Stack:
 
 Power BI – Data visualization & dashboard creation
 
@@ -28,7 +27,7 @@ Power Query – Data transformation & cleaning
 
 Excel – Data preparation and formatting
 
-4. Data Scource
+4. Data Source:
 
 Sample HR dataset obtained from a publicly available YouTube tutorial, used for educational and project practice purposes.
 
