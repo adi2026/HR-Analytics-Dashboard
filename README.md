@@ -46,4 +46,4 @@ KPIs for headcount, average income, and experience
 
 Clean, business-friendly UI design
 
-6.Screenshot / Demos Show what the dashboard looks like : Example:https://github.com/adi2026/HR-Analytics-Dashboard/blob/main/HR%20Analytic_dashboardScreenshot%20.png
+6.Screenshot / Demos Show what the dashboard looks like : Example:![Dashboard preview](https://github.com/adi2026/HR-Analytics-Dashboard/blob/main/HR%20Analytic_dashboardScreenshot%20.png)
